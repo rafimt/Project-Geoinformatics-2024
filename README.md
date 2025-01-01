@@ -21,6 +21,7 @@ Features
 - Google Earth Engine JavaScript API
 - Earth Engine Python API (optional)
 - QGIS for visualization (3.x+)
+- Jupyter Notebook
 
 ### Python Libraries
 
@@ -30,6 +31,7 @@ Features
 - matplotlib
 - scipy
 - contextily
+- seaborn
 
 ### JavaScript Libraries
 
@@ -43,6 +45,7 @@ Features
 - Landsat 5 TM imagery (for historical analysis)
 - Land use/land cover data
 - Administrative boundaries
+- Baumkataster - Berlin
 
 ## Methods
 The repository implements various approaches for LST analysis:
