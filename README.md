@@ -5,49 +5,49 @@ Features
 
 ## Retrieval of LST from Landsat satellite imagery
 - Calculation of various spectral indices (NDVI, NDBI, NDWI)
-Analysis of temporal LST changes
-Correlation analysis between LST and land cover types
-Visualization of LST patterns and thermal variations
+- Analysis of temporal LST changes
+- Correlation analysis between LST and land cover types
+- Visualization of LST patterns and thermal variations
 
 ## Prerequisites
 
-Google Earth Engine account
-Basic understanding of remote sensing concepts
-Familiarity with JavaScript (for GEE Code Editor)
+- Google Earth Engine account
+- Basic understanding of remote sensing concepts
+- Familiarity with JavaScript (for GEE Code Editor)
 
 ## Tools & Libraries
-## Required
+### Required
 
-Google Earth Engine JavaScript API
-Earth Engine Python API (optional)
-QGIS for visualization (3.x+)
+- Google Earth Engine JavaScript API
+- Earth Engine Python API (optional)
+- QGIS for visualization (3.x+)
 
-Python Libraries
+### Python Libraries
 
-geemap
-ee (Earth Engine API)
-numpy
-pandas
-matplotlib
-scipy
+- geopandas
+- numpy
+- pandas
+- matplotlib
+- scipy
+- contextily
 
-JavaScript Libraries
+### JavaScript Libraries
 
-ee (Earth Engine JavaScript API)
-Chart libraries for visualization
-Export utilities
+- ee (Earth Engine JavaScript API)
+- Chart libraries for visualization
+- Export utilities
 
 ## Data Sources
 
-Landsat 8 OLI/TIRS imagery
-Landsat 5 TM imagery (for historical analysis)
-Land use/land cover data
-Administrative boundaries
+- Landsat 8 OLI/TIRS imagery
+- Landsat 5 TM imagery (for historical analysis)
+- Land use/land cover data
+- Administrative boundaries
 
 ## Methods
 The repository implements various approaches for LST analysis:
 
-Radiative transfer equation method for LST retrieval
-Land use/land cover classification
-Statistical correlation analysis
-Temporal trend analysis
+- Radiative transfer equation method for LST retrieval
+- Land use/land cover classification
+- Statistical correlation analysis
+- Temporal trend analysis
