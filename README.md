@@ -4,7 +4,7 @@ This repository contains code and resources for analyzing Land Surface Temperatu
 Features
 
 ## Retrieval of LST from Landsat satellite imagery
-Calculation of various spectral indices (NDVI, NDBI, NDWI)
+- Calculation of various spectral indices (NDVI, NDBI, NDWI)
 Analysis of temporal LST changes
 Correlation analysis between LST and land cover types
 Visualization of LST patterns and thermal variations
@@ -14,6 +14,28 @@ Visualization of LST patterns and thermal variations
 Google Earth Engine account
 Basic understanding of remote sensing concepts
 Familiarity with JavaScript (for GEE Code Editor)
+
+## Tools & Libraries
+## Required
+
+Google Earth Engine JavaScript API
+Earth Engine Python API (optional)
+QGIS for visualization (3.x+)
+
+Python Libraries
+
+geemap
+ee (Earth Engine API)
+numpy
+pandas
+matplotlib
+scipy
+
+JavaScript Libraries
+
+ee (Earth Engine JavaScript API)
+Chart libraries for visualization
+Export utilities
 
 ## Data Sources
 
