@@ -1,4 +1,4 @@
-#Land Surface Temperature Analysis using Google Earth Engine
+# Land Surface Temperature Analysis using Google Earth Engine
 Overview
 This repository contains code and resources for analyzing Land Surface Temperature (LST) patterns using Google Earth Engine (GEE). The project focuses on understanding the relationship between urban land use/land cover changes and their impacts on surface temperature variations.
 Features
