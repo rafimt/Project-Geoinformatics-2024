@@ -1,6 +1,7 @@
 # Berlin’s Environmental Dynamics: A Multi-Dimensional Analysis of Temperature, Vegetation, and Urban Development
 ## Overview
 This repository contains code and resources for analyzing Land Surface Temperature (LST) patterns using Google Earth Engine (GEE). The project focuses on understanding the relationship between urban land use/land cover changes and their impacts on surface temperature variations.
+
 Features
 
 ## Retrieval of LST from Landsat satellite imagery
